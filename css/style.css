@@ -1,0 +1,109 @@
+.container {
+  width: 100%;
+  margin: 0;
+  background-image: url(/img/background2.png);
+}
+
+img {
+  width: 60%;
+  height: 60%;
+}
+
+.img-g {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+a {
+  text-decoration: none;
+}
+.head-title {
+  font-family: - Book Antiqua;
+  color: navy;
+  padding-left: 30px;
+}
+.p1 {
+  font-family: - Book Antiqua;
+  color: navy;
+}
+.list {
+  font-family: - Book Antiqua;
+  color: navy;
+}
+.list-item {
+  font-family: Tahoma;
+}
+.head-title {
+}
+.lina {
+}
+.title {
+  text-align: center;
+}
+.title-1 {
+  border-bottom: 3px, green;
+  font-family: - Arial;
+  color: green;
+}
+
+.lina-title {
+  margin: auto;
+  text-align: center;
+  width: 300px;
+  border-bottom: solid 3px green;
+  border-top: solid 3px green;
+}
+.item {
+  text-align: right;
+}
+.item1 {
+  font-family: Arial;
+  color: green;
+}
+.p2 {
+  font-family: Arial;
+  color: green;
+}
+
+.two-title {
+  margin: auto;
+  text-align: center;
+  width: 300px;
+  border-bottom: solid 3px red;
+  border-top: solid 3px red;
+}
+.title-2 {
+  font-family: - Courier New;
+  color: red;
+}
+.item2 {
+  font-family: - Courier New;
+  color: red;
+}
+
+.p3 {
+  font-family: - Courier New;
+  color: red;
+}
+.three-title {
+  margin: auto;
+  text-align: center;
+  width: 300px;
+  border-bottom: solid 3px - #336666;
+  border-top: solid 3px - #336666;
+}
+.title-3 {
+  font-family: - Tahoma;
+  color: #336666;
+}
+.item3 {
+  font-family: - Tahoma;
+  color: #336666;
+}
+.p4 {
+  font-family: - Tahoma;
+  color: #336666;
+}
+.text {
+}
